@@ -25,8 +25,6 @@ O site contém:
 
 Você pode visualizar o guia diretamente pelo GitHub Pages:
 
-👉 https://MarcioFreitas28.github.io/valores-alvorada/guia_valores_alvorada_com_fundo.html
-
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub após publicar.
+👉 https://MarcioFreitas28.github.io/valores-alvorada/guia_valores_alvorada_com_fundo_atualizado.html
 
 ## 📁 Estrutura de Arquivos
